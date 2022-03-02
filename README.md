@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshitaZode1902
 - 👀 I’m interested in designing a website
-- 🌱 I’m currently taking my education in IT branch of engineering
+- 🌱 I’m currently pursuing my education in IT branch of engineering
 - 💞️ I’m looking to collaborate on web development
 
 <!---
